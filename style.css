@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family:"Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+p {
+    color:white
+}
+#first {
+    height: 400px;
+    width: 700px;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+#second {
+    text-align: center;
+}
+#third {
+    text-align: center;
+}
